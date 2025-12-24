@@ -3,8 +3,10 @@ Art neuro-symbolique : fusion des créativité de réseaux de neurones (Pytorch)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![Discord](https://img.shields.io/discord/123456789.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/channels/1447270986889302121/1447270988822872179)
-
+[![Discord](https://img.shields.io/discord/123456789.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/channels/1447270986889302121) 
+[![GitHub stars](https://img.shields.io/github/stars/:neurosymboloracles/:neurosymboloracles-)](https://github.com/neurosymboloracles) 
+[![Contrat déployé](https://img.shields.io/badge/Basescan-%235C2D91.svg?style=for-the-badge&logo=Basescan&logoColor=#b3b3b7)](https://basescan.org/address/0x218176f1618c2ce3a9c1850d6276ab862d728049)
+[![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/collection/neurosymboracles)
 ---
 
 ## **🎨 Aperçu du Projet**
@@ -32,10 +34,10 @@ Chaque œuvre est :
 | IPFS/Pinata | -             | Stockage décentralisé des métadonnées|
 | Solidity    | 0.8.0         | Contrats ERC-721 ERC-2981 pour les NFTs        |
 
-[![Contrat déployé](https://img.shields.io/badge/Basescan-%235C2D91.svg?style=for-the-badge&logo=Basescan&logoColor=#b3b3b7)](https://basescan.org/address/0x218176f1618c2ce3a9c1850d6276ab862d728049)
-
-[![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/collection/neurosymboracles)
-
 ## Sécurité
 Audit Slither/Remix : clean (front-running & overflow fixés).
+
+## Licence
+MIT – feel free to fork/learn !
+
 
