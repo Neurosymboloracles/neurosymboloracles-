@@ -13,24 +13,24 @@ NeuroSymb Art est une **exploration artistique** à la frontière entre :
 - **Le raisonnement symbolique** (SymPy) pour la précision mathématique et la reproductibilité.
 
 Chaque œuvre est :
-✅ **Générative** : Créée par des algorithmes.
-✅ **Explicable** : Accompagnée de preuves mathématiques (équations SymPy).
-✅ **Évolutive** : Peut changer en fonction d’interactions (ex: transferts de NFT).
+**Générative** : Créée par des algorithmes.
+**Explicable** : Accompagnée de preuves mathématiques (équations SymPy).
+**Évolutive** : Peut changer en fonction d’interactions (ex: transferts de NFT).
 
 ![Exemple d'œuvre Neuro-Symbolique](<img width="369" height="369" alt="1Pin32bits" src="https://github.com/user-attachments/assets/e3dbb926-043a-481b-903b-da81a18127f4" />)
-*(Vague générée par GAN + équation différentielle résolue par SymPy.)*
+(Vague générée par GAN + équation différentielle résolue par SymPy.)
 
 ---
 
 ## **🛠️ Technologies Utilisées**
 | Outil       | Version       | Usage                                  |
 |-------------|---------------|----------------------------------------|
-| PyTorch     | 2.0+          | Génération d’images via GAN/VAE.      |
-| SymPy       | 1.12          | Résolution d’équations symboliques.   |
-| NumPy       | 1.24          | Calculs numériques.                   |
-| Matplotlib  | 3.7           | Visualisation des résultats.          |
-| IPFS/Pinata | -             | Stockage décentralisé des métadonnées.|
-| Solidity    | 0.8.0         | Contrats ERC-721 pour les NFTs.        |
+| PyTorch     | 2.0+          | Génération d’images via GAN/VAE      |
+| SymPy       | 1.12          | Résolution d’équations symboliques   |
+| NumPy       | 1.24          | Calculs numériques                   |
+| Matplotlib  | 3.7           | Visualisation des résultats          |
+| IPFS/Pinata | -             | Stockage décentralisé des métadonnées|
+| Solidity    | 0.8.0         | Contrats ERC-721 ERC-2981 pour les NFTs        |
 
 [![Contrat déployé](https://img.shields.io/badge/Basescan-%235C2D91.svg?style=for-the-badge&logo=Basescan&logoColor=#b3b3b7)](https://basescan.org/address/0x218176f1618c2ce3a9c1850d6276ab862d728049)
 
