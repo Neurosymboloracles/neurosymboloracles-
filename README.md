@@ -3,7 +3,7 @@ Art neuro-symbolique : fusion des créativité de réseaux de neurones (Pytorch)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![Discord](https://img.shields.io/discord/1447270988822872179.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/channels/1447270986889302121/1447270988822872179)
+[![Discord](https://img.shields.io/discord/123456789.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/channels/1447270986889302121/1447270988822872179)
 
 ---
 
@@ -17,8 +17,7 @@ Chaque œuvre est :
 ✅ **Explicable** : Accompagnée de preuves mathématiques (équations SymPy).
 ✅ **Évolutive** : Peut changer en fonction d’interactions (ex: transferts de NFT).
 
-![Exemple d'œuvre Neuro-Symbolique](<img width="369" height="369" alt="1Pin32bits" src="https://github.com/user-attachments/assets/e3dbb926-043a-481b-903b-da81a18127f4" />
-)
+![Exemple d'œuvre Neuro-Symbolique](<img width="369" height="369" alt="1Pin32bits" src="https://github.com/user-attachments/assets/e3dbb926-043a-481b-903b-da81a18127f4" />)
 *(Vague générée par GAN + équation différentielle résolue par SymPy.)*
 
 ---
